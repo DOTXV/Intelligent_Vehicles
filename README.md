@@ -1,3 +1,3 @@
-# Intellgient_Vehicles  
+# Intelligent_Vehicles  
 NTU  
-108_Intellgient_Vehicles
+108_Intelligent_Vehicles
